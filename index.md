@@ -4,3 +4,5 @@
 #### September is my birth month😊😍
 ##### I am turning 21❤️
 ###### coding is *Fun!!!*
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
