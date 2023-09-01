@@ -6,3 +6,8 @@
 ###### coding is *Fun!!!*
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+let myGreetings = "Hello, world!";
+let myGoodbyes = "Goodbye."
+```
